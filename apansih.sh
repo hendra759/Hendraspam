@@ -14,16 +14,16 @@ toilet -f standard -F gay "PULSAGRATIS"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 echo "Author Keke"
-" Team : menang22 CyberTeam"
-echo " Kontak Me : " 085779515200"
+" Team : HENDRA Team"
+echo " Kontak Me : " 082147078449"
 " Pesan : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Sendiri:)"
 sleep 1
 echo "ThanksTo:"
-echo "Allmember Cheater desa022"
+echo "Allmember Cheater HENDRA STORE"
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 3
-echo "Kumpulan Kumpulan Pulsa All Operator"
+echo "ISI NO MU , Pulsa All Operator"
 echo "Gunakan Pakai +62 #Contoh +62xxx:"
 read p;
 
@@ -41,7 +41,7 @@ echo "█████50%"
 sleep 3
 echo "██████60%" 
 sleep 5
-echo "\033[31;1mNomor Gagal Ngentot..""\033[32;1mSilahkan Masukkan Kembali No Anda:"
+echo "\033[31;1mNomor Gagal CUK..""\033[32;1mSilahkan Masukkan Kembali No Anda:"
 read p;
 sleep 3
 echo "Sedang Menuju Proses..."
@@ -103,7 +103,7 @@ echo "Pesan:Jika Script Ini Tidak Berfungsi Pada Anda Berarti Ada Kesalahan Dala
 sleep 3
 echo "TerimaKasih Untuk Yang Memakai Script Ini"
 sleep 2
-echo "ThanksTo:MrUncle - MrTamfanX - Owl Cyber Team"
+echo "ThanksTo: HENDRA-STORE"
 sleep 2
 sleep 4
 exit
